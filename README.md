@@ -4,4 +4,4 @@ this is a simple readme file
 
 mas bla bla bla bla
 
-JUST SOME UPDATES, ON A BRANCH
+ESPERO QUE ESTO NO SEA UN GRAN PROBLEMA
